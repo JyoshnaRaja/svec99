@@ -53,4 +53,12 @@
         -  url login will be created next we shholud copy that url and add that link to chrome tab
          -  click on authentication
         -  git is pushed into github
+- git update
+       - after updating in git  and saving
+       - check  get status
+       -  add the modified file
+       -  commit by using (git commit -m "file is modified")
+       - push into gethub(git push -u origin master )
+
+
 
