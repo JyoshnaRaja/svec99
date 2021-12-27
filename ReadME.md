@@ -29,7 +29,7 @@
 - postgressql
 - Oracle
 
-+vcs  (Source code management) 
++ vcs  (Source code management) 
          -Distributed vcs
                  -git,mercurial
          -Remote(central) vcs
@@ -37,10 +37,20 @@
 
 
  ###   Git
-       - git init
-        - git add filename
-        - git add filenanme1 filename2 
-        -git add . or git add --all
-        - git status  
-        - do configurations (set your user.name and user.email)  
-        - commit data with commit message           
+- git init
+- git add filename
+- git add filenanme1 filename2 
+-git add . or git add --all
+- git status  
+ - do configurations (set your user.name and user.email)  
+- commit data with commit message 
+- adding remote to git
+        -  git remote add origin https://github.com/JyoshnaRaja/svec99.git
+- accesing the remote
+        - git remote
+- pushing git to github
+        -  git push -u origin master
+        -  url login will be created next we shholud copy that url and add that link to chrome tab
+         -  click on authentication
+        -  git is pushed into github
+
