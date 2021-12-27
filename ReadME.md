@@ -55,11 +55,40 @@
         -  git is pushed into github
 - git update
        - after updating in git  and saving
-       - check  get status
-       -  add the modified file
+       - check  get status(git status)
+       -  add the modified file(git add .)
        -  commit by using (git commit -m "file is modified")
        - push into gethub(git push -u origin master)
-### html
-       - hyper text markup language
+### html5
+- hyper text markup language
+- html-browsers
+        - opera
+         - saphari
+- sematic elements
+      -  header
+      - section
+      - article
+      - aside
+      - footer
+      - table
+- block level elements
+      - occupy entire width of the browser
+      - h1 to h6
+      - p
+      - div
+      - all sematic elements 
+      - text will start from new line       
+- inline elements
+      - span
+      - img
+      - a
+      - nav
+      - form
+      - input
+      - text area
+      - legend
+      - sup
+      - sub 
+
 
 
