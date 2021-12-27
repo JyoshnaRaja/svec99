@@ -58,7 +58,8 @@
        - check  get status
        -  add the modified file
        -  commit by using (git commit -m "file is modified")
-       - push into gethub(git push -u origin master )
-
+       - push into gethub(git push -u origin master)
+### html
+       - hyper text markup language
 
 
