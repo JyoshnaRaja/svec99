@@ -14,7 +14,6 @@
        -express.js
        -nodemoon
        -cors
-       -
 - PHP
 - c3
 - Java
@@ -73,12 +72,15 @@
       - table
 - block level elements
       - occupy entire width of the browser
+      - starts from new line
+      -  when applied style total width of element will be effected with style
       - h1 to h6
       - p
       - div
       - all sematic elements 
       - text will start from new line       
 - inline elements
+      - when applied style only that particular element will be effected with style
       - span
       - img
       - a
@@ -88,7 +90,12 @@
       - text area
       - legend
       - sup
-      - sub 
+      - sub
+      - ul (gives output using bullets)
+      - ol (gives output using numbers like 1,2,3..)
+#### REFRENCE LINKS
+-  flaticon 
+
 
 
 
