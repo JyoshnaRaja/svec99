@@ -11,9 +11,9 @@
 
 
 - Node.js
-       -express.js
-       -nodemoon
-       -cors
+       - express.js
+       - nodemoon
+       - cors
 - PHP
 - c3
 - Java
@@ -29,10 +29,10 @@
 - Oracle
 
 + vcs  (Source code management) 
-         -Distributed vcs
-                 -git,mercurial
-         -Remote(central) vcs
-                 -github,bitbucket
+    - Distributed vcs
+          - git,mercurial
+     - Remote(central) vcs
+           - github,bitbucket
 
 
  ###   Git
@@ -44,14 +44,14 @@
  - do configurations (set your user.name and user.email)  
 - commit data with commit message 
 - adding remote to git
-        -  git remote add origin https://github.com/JyoshnaRaja/svec99.git
+    -  git remote add origin https://github.com/JyoshnaRaja/svec99.git
 - accesing the remote
-        - git remote
-- pushing git to github
-        -  git push -u origin master
-        -  url login will be created next we shholud copy that url and add that link to chrome tab
-         -  click on authentication
-        -  git is pushed into github
+      - git remote
+### pushing git to github
+- git push -u origin master
+- url login will be created next we shholud copy that url and add that link to chrome tab
+ -  click on authentication
+-  git is pushed into github
 - git update
        - after updating in git  and saving
        - check  get status(git status)
@@ -70,6 +70,12 @@
       - aside
       - footer
       - table
+### animation elements   
+     - audio elemnts
+     - video elements
+     - canvas ,progress ,meter
+     - data list
+     - select
 - block level elements
       - occupy entire width of the browser
       - starts from new line
@@ -94,8 +100,86 @@
       - ul (gives output using bullets)
       - ol (gives output using numbers like 1,2,3..)
 #### REFRENCE LINKS
--  flaticon 
+-  flaticon[https://flaticon.com]
+-  html color codes[https://htmlcolorcodes.com/]
+-  webaim[https://webaim.org/resources/contrastchecker/]
+- freesvg[https://freesvg.org/]
+task 1:
+=====
+   - audio
+   - video
+   - canvas
+   - progress
+   - datalist
+   - meter
+   - select
+### css
+  - cascading Style Sheets
+  - inline css
+  - internal css
+  - external css
+  + syntax for css
+    '''''
+       selector{
+               properties
+       }
+       ''''''
+### box model
+- text
+- padding
+       - padding: 10px (for alladjacent sides)
+       - padding :10px 30px (10px fro top and 30px for left and right)
+       - padding :10px 300px 50px (10px fro top and 300px for left and right and 50px for bottom)
+       - padding :10px 30px 4px 50px (top,right,bottom,left)
+- border
+- margin
+- width and height
+- 1 rem=16px
+##### selectors
+  + simple selctors
+       - universal selector(*)
+       - by element name
+       - grouping selector(,)
+       - class selector(.)
+       - id selector(#)
 
+  + combinators
+       + descendant selector( )
+       + child selector(>)
+       + adjacent sebling selector(+)
+       + general sibling selector(~)
++ pseudo class selector
++ pseudo element selector
++ attribute selector
+
+
++ display
+    - none
+    - inline
+    - block
+    - inline block
++ position
+    - static
+    - relative
+    - absolute
+    - fixed
+    - sticky
++ align content
++ align items
++ align selg 
+#### responsive web design
+#### flex-box
+
+- display
+    - flex
+        - flex wrap
+        - justify content
+        - flex direction
+        - flrex flow
+#### task 2:
+- indexpage.html
+- login.html
+- register.html
 
 
 
