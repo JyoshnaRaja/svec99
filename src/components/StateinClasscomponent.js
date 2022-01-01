@@ -17,10 +17,10 @@ export default class StateinClasscomponent extends Component {
 
 render() {
 
-    //   setTimeout(()=>{
-    //           this.setState({count:" 143"})
-    //           this.setState({name:"jaswitha reddy"})
-    //   },3000);
+      setTimeout(()=>{
+              this.setState({count:" 143"})
+              this.setState({name:"jaswitha reddy"})
+      },3000);
 
 
 

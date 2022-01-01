@@ -9,6 +9,10 @@ import UnionBank from './components/UnionBank';
 import Corporationbank from './components/Corporationbank';
 import StateinClasscomponent from './components/StateinClasscomponent';
 import StateinFunctionalcomponent from './components/StateinFunctionalcomponent';
+import Listrendering from './components/Listrendering';
+import Formrendering from './components/Formrendering';
+import Home from './components/Home';
+import FormRenderinginFunctions from './components/FormRenderinginFunctions';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -17,7 +21,11 @@ ReactDOM.render(
     {/* <ClassComponent/> */}
     {/* <StateinClasscomponent/>
     < UnionBank/> */}
-    <StateinFunctionalcomponent/>
+{/* <Listrendering/> */}
+{/* <Formrendering/> */}
+<FormRenderinginFunctions/>
+{/* <Home/> */}
+
   </React.StrictMode>,
   document.getElementById('root')
   
